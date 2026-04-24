@@ -18,4 +18,4 @@ I am an **Information Security** student at the **National University of Science
 
 ---
 📫 **How to reach me:** (https://www.linkedin.com/in/haris-abdullah-8822ba372?utm_source=share_via&utm_content=profile&utm_medium=member_android) | abdullahharis898@gmail.com
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wireshark,nmap,kalilinux&theme=light)](https://skillicons.dev)
