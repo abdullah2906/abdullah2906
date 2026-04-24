@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Haris Abdullah!
 
-<!--
-**abdullah2906/abdullah2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Information Security** student at the **National University of Sciences & Technology (NUST)**. I am deeply passionate about the defensive side of cybersecurity, specifically **Security Operations Center (SOC)** operations and **Network Security**.
 
-Here are some ideas to get you started:
+# 🔍 Focus Areas
+- **SOC Operations:** Understanding alert triage, incident response, and SIEM correlation.
+- **Network Security:** Traffic analysis with Wireshark, firewall configuration, and intrusion detection (IDS/IPS).
+- **Security Research:** Exploring emerging threats and defensive best practices at [NUST MCS](https://mcs.nust.edu.pk/departments/department-of-information-security/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Tech Stack & Tools
+- **Operating Systems:** Kali Linux, Ubuntu, Windows Server.
+- **Security Tools:** Nmap, Wireshark, Splunk/ELK (Learning), Snort.
+- **Languages:** Python (Security Automation), Bash Scripting.
+
+# 🌱 Currently Learning
+- Advanced threat hunting methodologies using the MITRE ATT&CK framework.
+- Hands-on SOC workflows through [TryHackMe](https://tryhackme.com/resources/blog/what-does-a-soc-analyst-actually-do-definitive-2026-guide) and Blue Team Labs.
+
+---
+📫 **How to reach me:** (https://www.linkedin.com/in/haris-abdullah-8822ba372?utm_source=share_via&utm_content=profile&utm_medium=member_android) | abdullahharis898@gmail.com
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
